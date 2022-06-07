@@ -1,0 +1,6 @@
+{ 
+    "_id" : ObjectId("6274b15ff37012c30513baa5"), 
+    "id" : "_id", 
+    "reference_value" : null, 
+    "seq" : NumberInt(15)
+}

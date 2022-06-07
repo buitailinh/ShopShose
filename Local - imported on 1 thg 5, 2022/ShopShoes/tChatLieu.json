@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("627014e2236d5007a58ec5ee"), 
+    "ChatLieu" : "Vaỉ lưới"
+}
+{ 
+    "_id" : ObjectId("627014ea236d5007a58ec5ef"), 
+    "ChatLieu" : "Vaỉ dệt"
+}
+{ 
+    "_id" : ObjectId("62701536236d5007a58ec5f0"), 
+    "ChatLieu" : "Da"
+}

@@ -1,0 +1,32 @@
+{ 
+    "_id" : ObjectId("62700b9a2692ba4cc8f7a192"), 
+    "NSX" : "Nike"
+}
+{ 
+    "_id" : ObjectId("62700c6b236d5007a58ec5d5"), 
+    "NSX" : "Puma"
+}
+{ 
+    "_id" : ObjectId("62700cb5236d5007a58ec5d6"), 
+    "NSX" : "Vans"
+}
+{ 
+    "_id" : ObjectId("62700cc8236d5007a58ec5d7"), 
+    "NSX" : "adidas"
+}
+{ 
+    "_id" : ObjectId("62700fdb236d5007a58ec5d8"), 
+    "NSX" : "Converse "
+}
+{ 
+    "_id" : ObjectId("62700ff2236d5007a58ec5d9"), 
+    "NSX" : "Alexander McQueen"
+}
+{ 
+    "_id" : ObjectId("62701020236d5007a58ec5da"), 
+    "NSX" : "Balenciaga "
+}
+{ 
+    "_id" : ObjectId("6270104a236d5007a58ec5db"), 
+    "NSX" : "Gucci"
+}

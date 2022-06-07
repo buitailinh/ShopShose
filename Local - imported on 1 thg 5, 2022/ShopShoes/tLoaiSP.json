@@ -1,0 +1,35 @@
+{ 
+    "_id" : ObjectId("626df323f2114c733ab1cf8c"), 
+    "TenLoai" : "Giày chạy bộ", 
+    "MaLoai" : "L001"
+}
+{ 
+    "_id" : ObjectId("626ff52025b0d9a77112a919"), 
+    "TenLoai" : "Giày bóng rổ", 
+    "MaLoai" : "L002"
+}
+{ 
+    "_id" : ObjectId("626ff752236d5007a58ec599"), 
+    "TenLoai" : "Giày jordan", 
+    "MaLoai" : "L003"
+}
+{ 
+    "_id" : ObjectId("626ff87c236d5007a58ec59a"), 
+    "TenLoai" : "Giày bóng đá", 
+    "MaLoai" : "L004"
+}
+{ 
+    "_id" : ObjectId("626ff888236d5007a58ec59b"), 
+    "TenLoai" : "Giày Gym", 
+    "MaLoai" : "L005"
+}
+{ 
+    "_id" : ObjectId("626ff88f236d5007a58ec59c"), 
+    "TenLoai" : "Giày quần vợt", 
+    "MaLoai" : "L006"
+}
+{ 
+    "_id" : ObjectId("626ff893236d5007a58ec59d"), 
+    "TenLoai" : "Giày trượt ván", 
+    "MaLoai" : "L007"
+}

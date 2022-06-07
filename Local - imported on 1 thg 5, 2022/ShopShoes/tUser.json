@@ -1,0 +1,50 @@
+{ 
+    "_id" : ObjectId("627b670cbda63eade75ce5c4"), 
+    "Email" : "admin@gmail.com", 
+    "Password" : "12345678", 
+    "FirstName" : "admin", 
+    "LastName" : "admin", 
+    "DiaChi" : "Ba Dinh Ha Noi", 
+    "SDT" : NumberInt(355583207), 
+    "admin" : true, 
+    "createdAt" : ISODate("2022-05-11T07:34:36.665+0000"), 
+    "updatedAt" : ISODate("2022-05-11T07:34:36.665+0000"), 
+    "slug" : "admin-gmail-com", 
+    "__v" : NumberInt(0), 
+    "Cart" : {
+        "_idSP" : NumberInt(1), 
+        "TenSP" : "admin", 
+        "Size" : "Size 36", 
+        "SoLuong" : NumberInt(3), 
+        "Gia" : NumberInt(10000000), 
+        "TongGia" : NumberInt(30000000)
+    }
+}
+{ 
+    "_id" : ObjectId("627f036e4e18d74e11fd9485"), 
+    "Email" : "linh@gmail.com", 
+    "Password" : "11111111", 
+    "FirstName" : "bui", 
+    "LastName" : "linh", 
+    "DiaChi" : "", 
+    "SDT" : NumberInt(123456789), 
+    "admin" : false, 
+    "createdAt" : ISODate("2022-05-14T01:18:38.329+0000"), 
+    "updatedAt" : ISODate("2022-05-14T01:18:38.329+0000"), 
+    "slug" : "linh-gmail-com", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("628073d79ffe17a32b9bc819"), 
+    "Email" : "linh2@gmail.com", 
+    "Password" : "11111111", 
+    "FirstName" : "bui", 
+    "LastName" : "linh", 
+    "DiaChi" : "", 
+    "SDT" : NumberInt(1111111111), 
+    "admin" : false, 
+    "createdAt" : ISODate("2022-05-15T03:30:31.208+0000"), 
+    "updatedAt" : ISODate("2022-05-15T03:30:31.208+0000"), 
+    "slug" : "linh2-gmail-com", 
+    "__v" : NumberInt(0)
+}

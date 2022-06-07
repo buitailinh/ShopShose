@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("6270122f236d5007a58ec5e5"), 
+    "TenMau" : "Bạch kim tinh khiết"
+}
+{ 
+    "_id" : ObjectId("62701244236d5007a58ec5e6"), 
+    "TenMau" : "Xám lạnh"
+}
+{ 
+    "_id" : ObjectId("62701261236d5007a58ec5e8"), 
+    "TenMau" : "Trắng"
+}
+{ 
+    "_id" : ObjectId("62701269236d5007a58ec5e9"), 
+    "TenMau" : "Đen"
+}
+{ 
+    "_id" : ObjectId("62701272236d5007a58ec5ea"), 
+    "TenMau" : "Xanh Dương"
+}
+{ 
+    "_id" : ObjectId("6270127d236d5007a58ec5eb"), 
+    "TenMau" : "Đỏ"
+}
